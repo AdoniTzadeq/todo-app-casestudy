@@ -18,7 +18,7 @@ let another =JSON.parse(this.responseText)
              <button id="do" class="btn btn-outline-success" type="button" const interval = setInterval(toDo() {
               // method to be executed;
             }, 3000); >TO DO LIST</button>
-             <button id="back" class="btn btn-sm btn-outline-secondary" type="button" onclick()=F:\Full stack\Ajax\index.html >Logout</button>
+             <button id="back" class="btn btn-sm btn-outline-secondary" type="button" onclick()="index.html" >Logout</button>
            </form>
          </nav>
            
