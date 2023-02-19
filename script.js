@@ -244,8 +244,8 @@ let another =JSON.parse(this.responseText)
 
     function validate()
     {
-        let userformat= /(?<name>Admin)$/g;
-        let passformat= /(?<name>1234)/g;
+        let userformat= /(?<name>admin)$/g;
+        let passformat= /(?<name>12345)/g;
         
         let username = document.getElementById("main");
         let user= username.value;
